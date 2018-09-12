@@ -1,0 +1,7 @@
+node_modules
+tmp
+npm-debug.log
+lib
+oldvers
+test
+.DS_Store
